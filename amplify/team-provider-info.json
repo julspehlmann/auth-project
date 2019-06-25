@@ -1,0 +1,19 @@
+{
+    "mobile": {
+        "awscloudformation": {
+            "AuthRoleName": "authproj-mobile-20190625124304-authRole",
+            "UnauthRoleArn": "arn:aws:iam::640928361556:role/authproj-mobile-20190625124304-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::640928361556:role/authproj-mobile-20190625124304-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "authproj-mobile-20190625124304-deployment",
+            "UnauthRoleName": "authproj-mobile-20190625124304-unauthRole",
+            "StackName": "authproj-mobile-20190625124304",
+            "StackId": "arn:aws:cloudformation:us-east-1:640928361556:stack/authproj-mobile-20190625124304/4e85b810-9768-11e9-a68d-0e92b042adf6"
+        },
+        "categories": {
+            "auth": {
+                "authproj5492dda8": {}
+            }
+        }
+    }
+}
